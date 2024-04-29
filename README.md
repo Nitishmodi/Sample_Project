@@ -1,2 +1,2 @@
 # Sample_Project
-# Hi I am an another Developer !!
+# Hi I am a developer !!
